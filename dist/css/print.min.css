@@ -76,7 +76,8 @@ aside li {
 
 h1 {
     font-size: 50px;
-    font-weight: 400
+    font-weight: 700;
+    text-shadow: 2px 2px 2px black;
 }
 
 h2 {
@@ -85,6 +86,9 @@ h2 {
 
 .side-info li {
     padding-top: 20px
+}
+.icon-mail-alt,.icon-wechat,.icon-qq{
+    padding-right: 20px;
 }
 
 .side-info dt {
