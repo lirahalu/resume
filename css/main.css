@@ -156,7 +156,9 @@ h2 {
 }
 
 .qr-in img {
-    width: 200px
+    width: 200px;
+    position: relative;
+    top: 40px;
 }
 
 
@@ -185,7 +187,7 @@ h2 {
     color: #00796b;
     line-height: 30px;
     border-bottom: 1px solid #00796b;
-    margin: 0 0 25px -5px;
+    margin: 0 0 25px -25px;
     padding:10px;
 }
 
@@ -206,7 +208,7 @@ h4, h5 {
 
 h3, h4 {
     font-size:30px;
-    margin: 20px;
+    margin: 15px;
 }
 
 h3 {
@@ -215,8 +217,8 @@ h3 {
 }
 
 h4 {
-    line-height: 35px;
-    bottom: 8px
+    line-height: 30px;
+    bottom: 4px
 }
 
 h5 {
@@ -240,10 +242,17 @@ h5 {
     border-left: 2px solid #00796b;
     margin-left: 10px
 }
-.exp img{
+.exp-img{
     width: 280px;
 }
 
+.app{
+    width: 192px;
+}
+.app1{
+    position: absolute;
+    bottom: 150px;
+}
 .exp p {
     font-size: 20px;
     color: #616161;
