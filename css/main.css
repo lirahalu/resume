@@ -149,7 +149,7 @@ h2 {
     padding-top:20px
 }
 .main-info dt {
-    font-size:36px;
+    font-size:30px;
     color:#00796b;
     line-height:30px;
     border-bottom:1px solid #00796b;
@@ -166,22 +166,22 @@ h4,h5 {
 }
 .main-info span {
     color:#000;
-    font-size:30px
+    font-size:24px
 }
 h3,h4 {
-    font-size:30px;
-    margin:14px;
+    font-size:24px;
+    margin:12px;
 }
 h3 {
     color:#004d40;
 }
 h4 {
-    line-height:30px;
+    line-height:26px;
     bottom:4px
 }
 h5 {
     clear:both;
-    font-size:25px;
+    font-size:20px;
     line-height:30px
 }
 .circle {
@@ -223,4 +223,7 @@ h5 {
 }
 .exp ul > li {
     margin:12px
+}
+.dec-time{
+
 }
